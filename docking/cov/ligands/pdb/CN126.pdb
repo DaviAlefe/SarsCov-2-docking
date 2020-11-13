@@ -1,0 +1,74 @@
+REMARK   Accelrys Discovery Studio PDB file
+REMARK   Created:  2020-07-01T22:42:40Z
+HETATM    1  C1  UNK     0       2.375  -8.783  -0.047  1.00  0.00           C  
+HETATM    2  C2  UNK     0       2.406 -10.183  -0.055  1.00  0.00           C  
+HETATM    3  C3  UNK     0       3.619 -10.874  -0.044  1.00  0.00           C  
+HETATM    4  C4  UNK     0       4.790 -10.130  -0.026  1.00  0.00           C  
+HETATM    5  C5  UNK     0       4.746  -8.754  -0.018  1.00  0.00           C  
+HETATM    6  C6  UNK     0       3.558  -8.045  -0.028  1.00  0.00           C  
+HETATM    7  N7  UNK     0       6.059 -10.558  -0.014  1.00  0.00           N  
+HETATM    8  C8  UNK     0       6.828  -9.473   0.003  1.00  0.00           C  
+HETATM    9  C9  UNK     0       6.057  -8.334  -0.000  1.00  0.00           C  
+HETATM   10  C10 UNK     0       8.207  -9.382   0.019  1.00  0.00           C  
+HETATM   11  N11 UNK     0       8.742  -8.169   0.028  1.00  0.00           N  
+HETATM   12  C12 UNK     0       8.019  -7.051   0.025  1.00  0.00           C  
+HETATM   13  C13 UNK     0       6.627  -7.075   0.012  1.00  0.00           C  
+HETATM   14  C14 UNK     0       9.109 -10.560   0.022  1.00  0.00           C  
+HETATM   15  C15 UNK     0      10.540 -10.023   0.087  1.00  0.00           C  
+HETATM   16  C16 UNK     0       8.743  -5.853   0.031  1.00  0.00           C  
+HETATM   17  O17 UNK     0       9.934  -5.797  -0.691  1.00  0.00           O  
+HETATM   18  O18 UNK     0       8.327  -4.881   0.655  1.00  0.00           O  
+HETATM   19  C19 UNK     0      11.509 -11.145   0.107  1.00  0.00           C  
+HETATM   20  O20 UNK     0      12.592 -11.153  -0.780  1.00  0.00           O  
+HETATM   21  O21 UNK     0      11.384 -12.070   0.919  1.00  0.00           O  
+HETATM   22  C22 UNK     0      10.692  -4.668  -0.198  1.00  0.00           C  
+HETATM   23  H1  UNK     0       1.440  -8.280  -0.055  1.00  0.00           H  
+HETATM   24  H2  UNK     0       1.493 -10.727  -0.069  1.00  0.00           H  
+HETATM   25  H3  UNK     0       3.640 -11.938  -0.051  1.00  0.00           H  
+HETATM   26  H4  UNK     0       3.547  -6.986  -0.022  1.00  0.00           H  
+HETATM   27  H5  UNK     0       6.046  -6.183   0.008  1.00  0.00           H  
+HETATM   28  H6  UNK     0       8.878 -11.205   0.881  1.00  0.00           H  
+HETATM   29  H7  UNK     0       8.945 -11.154  -0.887  1.00  0.00           H  
+HETATM   30  H8  UNK     0      10.743  -9.356  -0.763  1.00  0.00           H  
+HETATM   31  H9  UNK     0      10.617  -9.464   1.031  1.00  0.00           H  
+HETATM   32  H10 UNK     0      12.558 -10.325  -1.343  1.00  0.00           H  
+HETATM   33  H11 UNK     0      11.286  -4.230  -1.013  1.00  0.00           H  
+HETATM   34  H12 UNK     0      11.362  -5.004   0.607  1.00  0.00           H  
+HETATM   35  H13 UNK     0       9.999  -3.911   0.200  1.00  0.00           H  
+TER      36      UNK     0 
+CONECT    1    2    6   23
+CONECT    2    1    3   24
+CONECT    3    2    4   25
+CONECT    4    3    5    7
+CONECT    5    4    9    6
+CONECT    6    1    5   26
+CONECT    7    4    8
+CONECT    8    7   10    9
+CONECT    9    5    8   13
+CONECT   10    8   14   11
+CONECT   11   10   12
+CONECT   12   11   16   13
+CONECT   13    9   12   27
+CONECT   14   10   15   28   29
+CONECT   15   14   19   30   31
+CONECT   16   12   17   18
+CONECT   17   16   22
+CONECT   18   16
+CONECT   19   15   21   20
+CONECT   20   19   32
+CONECT   21   19
+CONECT   22   17   33   34   35
+CONECT   23    1
+CONECT   24    2
+CONECT   25    3
+CONECT   26    6
+CONECT   27   13
+CONECT   28   14
+CONECT   29   14
+CONECT   30   15
+CONECT   31   15
+CONECT   32   20
+CONECT   33   22
+CONECT   34   22
+CONECT   35   22
+END

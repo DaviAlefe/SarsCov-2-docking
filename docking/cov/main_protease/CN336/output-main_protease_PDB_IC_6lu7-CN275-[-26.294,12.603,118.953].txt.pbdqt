@@ -1,0 +1,432 @@
+MODEL 1
+REMARK VINA RESULT:       0.0      0.000      0.000
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -28.836  13.715 130.545  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -28.288  14.892 131.066  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -28.332  16.044 130.273  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -28.903  16.060 128.975  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -29.444  14.848 128.452  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -29.410  13.695 129.251  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -28.938  17.277 128.192  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -29.560  17.170 126.876  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -30.056  15.992 126.407  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -30.018  14.849 127.134  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -28.562  18.397 128.387  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -30.597  16.181 125.029  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -32.066  16.651 125.022  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -33.027  15.473 124.935  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -32.338  17.430 126.195  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -31.606  17.384 126.838  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -29.875  12.446 128.865  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -29.111  11.843 128.663  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -27.824  17.226 130.711  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -27.257  17.677 130.029  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -28.796  12.602 131.318  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -28.314  11.851 130.845  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:       0.0      5.562     10.116
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -36.203  15.172 119.981  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -37.573  15.117 120.265  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -37.969  14.524 121.468  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -37.045  13.981 122.397  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -35.654  14.031 122.085  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -35.255  14.636 120.884  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -37.498  13.385 123.637  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -36.453  12.871 124.516  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -35.135  12.927 124.178  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -34.707  13.477 123.015  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -38.576  13.217 124.128  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -34.308  12.298 125.249  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -33.928  13.287 126.370  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -32.578  13.941 126.102  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -34.946  14.287 126.509  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -35.093  14.773 125.676  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -33.943  14.734 120.440  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -33.854  15.487 119.799  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -39.280  14.437 121.817  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -39.448  14.729 122.754  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -35.823  15.752 118.816  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -35.363  15.084 118.214  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:       0.0      5.561      8.038
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -34.824  16.615 122.454  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -35.434  15.541 123.111  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -34.649  14.422 123.408  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -33.274  14.337 123.066  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -32.672  15.434 122.382  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -33.456  16.561 122.095  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -32.495  13.163 123.402  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -31.090  13.198 123.008  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -30.553  14.260 122.346  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -31.282  15.357 122.023  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -32.748  12.133 123.954  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -29.114  13.999 122.048  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -28.180  14.414 123.202  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -27.668  15.838 123.021  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -28.862  14.287 124.457  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -28.240  14.127 125.193  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -33.011  17.687 121.415  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -32.688  18.370 122.060  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -35.167  13.341 124.049  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -36.040  13.051 123.668  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -35.587  17.699 122.173  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -35.124  18.305 121.510  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:       0.0     14.378     16.347
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -23.633  13.921 115.674  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -24.876  14.458 116.027  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -25.882  14.476 115.055  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -25.688  13.979 113.740  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -24.410  13.450 113.393  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -23.404  13.420 114.370  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -26.760  14.008 112.768  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -26.443  13.459 111.454  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -25.206  12.971 111.156  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -24.198  12.950 112.061  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -27.894  14.389 112.798  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -25.169  12.512 109.736  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -25.641  11.053 109.567  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -24.470  10.080 109.618  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -26.603  10.728 110.579  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -27.511  10.701 110.221  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -22.111  12.959 114.167  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -22.128  12.108 113.655  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -27.117  14.977 115.322  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -27.689  14.338 115.829  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -22.662  13.900 116.621  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -21.797  14.275 116.258  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:       0.0     16.342     17.865
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -19.986  16.537 117.743  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -19.557  15.205 117.771  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -18.361  14.888 117.117  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -17.580  15.855 116.434  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -18.040  17.205 116.402  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -19.232  17.526 117.066  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -16.343  15.485 115.779  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -15.623  16.569 115.119  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -16.099  17.844 115.100  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -17.262  18.193 115.705  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -15.749  14.453 115.656  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -15.173  18.722 114.327  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -14.034  19.300 115.193  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -14.403  20.664 115.760  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -13.714  18.390 116.254  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -13.439  18.860 117.064  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -19.810  18.788 117.097  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -20.556  18.807 117.754  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -17.877  13.618 117.104  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -17.076  13.506 117.686  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -21.142  16.842 118.381  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -21.690  17.497 117.842  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:       0.0      3.978      6.263
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -24.811  11.642 130.726  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -25.701  11.426 129.667  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -26.380  12.533 129.146  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -26.203  13.848 129.648  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -25.304  14.047 130.737  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -24.614  12.941 131.253  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -26.918  14.967 129.072  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -26.645  16.272 129.666  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -25.787  16.421 130.713  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -25.122  15.374 131.261  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -27.710  15.072 128.181  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -25.734  17.854 131.127  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -24.695  18.669 130.330  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -23.349  18.705 131.043  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -24.546  18.121 129.014  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -23.899  18.624 128.483  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -23.731  12.981 132.323  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -23.228  12.126 132.385  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -27.257  12.406 128.116  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -28.045  11.844 128.349  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -24.151  10.568 131.224  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -24.728  10.065 131.885  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:       0.0     15.478     17.259
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -18.363  14.340 114.265  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -18.739  14.749 112.980  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -19.900  14.196 112.429  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -20.698  13.246 113.117  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -20.293  12.829 114.419  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -19.135  13.391 114.977  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -21.899  12.707 112.514  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -22.642  11.746 113.323  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -22.217  11.364 114.559  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -21.089  11.861 115.124  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -22.447  12.880 111.464  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -23.154  10.352 115.129  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -24.341  10.992 115.879  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -24.045  11.142 117.366  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -24.656  12.266 115.303  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -25.606  12.478 115.389  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -18.610  13.063 116.219  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -19.307  12.635 116.784  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -20.332  14.545 111.189  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -20.689  15.474 111.154  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -17.240  14.882 114.797  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -16.471  14.229 114.757  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:       0.0     14.247     16.321
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -32.084   4.431 119.832  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -33.345   5.034 119.773  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -34.434   4.330 120.297  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -34.308   3.041 120.875  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -33.018   2.434 120.913  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -31.923   3.143 120.399  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -35.460   2.352 121.416  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -35.203   1.037 121.994  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -33.958   0.485 122.002  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -32.878   1.124 121.490  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -36.622   2.627 121.506  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -34.007  -0.871 122.624  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -33.856  -0.831 124.158  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -32.402  -0.999 124.580  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -34.385   0.399 124.672  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -34.993   0.247 125.421  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -30.620   2.669 120.347  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -30.604   1.691 120.524  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -35.689   4.851 120.280  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -36.236   4.514 119.520  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -31.030   5.118 119.327  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -31.030   5.090 118.317  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:       0.0     20.296     21.971
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  O_14 
+REMARK    2  A    between atoms: C_3  and  O_15 
+REMARK    3  A    between atoms: C_6  and  O_18 
+REMARK    4  A    between atoms: C_9  and  C_12 
+REMARK    5  A    between atoms: C_12  and  C_13 
+REMARK    6  A    between atoms: C_13  and  O_17 
+ROOT
+HETATM    1  C   LIG     1     -23.565   7.318 111.206  1.00  0.00     0.102 A 
+HETATM    2  C   LIG     1     -22.185   7.299 110.969  1.00  0.00     0.077 A 
+HETATM    3  C   LIG     1     -21.535   6.061 110.978  1.00  0.00     0.085 A 
+HETATM    4  C   LIG     1     -22.215   4.839 111.219  1.00  0.00     0.086 A 
+HETATM    5  C   LIG     1     -23.617   4.877 111.474  1.00  0.00     0.021 A 
+HETATM    6  C   LIG     1     -24.272   6.117 111.454  1.00  0.00     0.110 A 
+HETATM    7  C   LIG     1     -21.504   3.577 111.209  1.00  0.00     0.302 A 
+HETATM    8  O   LIG     1     -22.313   2.389 111.459  1.00  0.00    -0.279 OA
+HETATM    9  C   LIG     1     -23.649   2.466 111.710  1.00  0.00     0.060 A 
+HETATM   10  C   LIG     1     -24.316   3.646 111.728  1.00  0.00     0.048 A 
+HETATM   11  O   LIG     1     -20.360   3.274 111.030  1.00  0.00    -0.259 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1     -24.200   1.102 111.960  1.00  0.00     0.096 C 
+BRANCH  12  13
+HETATM   13  C   LIG     1     -24.618   0.379 110.663  1.00  0.00     0.120 C 
+HETATM   14  C   LIG     1     -26.091   0.609 110.347  1.00  0.00     0.040 C 
+BRANCH  13  15
+HETATM   15  O   LIG     1     -23.801   0.817 109.570  1.00  0.00    -0.396 OA
+HETATM   16  H   LIG     1     -22.879   0.509 109.661  1.00  0.00     0.210 HD
+ENDBRANCH  13  15
+ENDBRANCH  12  13
+ENDBRANCH   9  12
+BRANCH   6  17
+HETATM   17  O   LIG     1     -25.624   6.307 111.708  1.00  0.00    -0.357 OA
+HETATM   18  H   LIG     1     -26.157   6.101 110.896  1.00  0.00     0.217 HD
+ENDBRANCH   6  17
+BRANCH   3  19
+HETATM   19  O   LIG     1     -20.199   5.960 110.752  1.00  0.00    -0.360 OA
+HETATM   20  H   LIG     1     -19.686   6.723 111.136  1.00  0.00     0.217 HD
+ENDBRANCH   3  19
+BRANCH   1  21
+HETATM   21  O   LIG     1     -24.192   8.519 111.192  1.00  0.00    -0.358 OA
+HETATM   22  H   LIG     1     -24.537   8.735 110.267  1.00  0.00     0.217 HD
+ENDBRANCH   1  21
+TORSDOF 6
+ENDMDL

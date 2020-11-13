@@ -1,0 +1,35 @@
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_2  and  O_18 
+REMARK    2  A    between atoms: C_9  and  C_12 
+REMARK    3  A    between atoms: C_15  and  O_19 
+ROOT
+HETATM    1  C   LIG     1       3.735 -10.153   0.108  1.00  0.00     0.037 A 
+HETATM    2  C   LIG     1       3.859 -11.559   0.015  1.00  0.00     0.068 A 
+HETATM    3  C   LIG     1       5.098 -12.207  -0.025  1.00  0.00     0.074 A 
+HETATM    4  C   LIG     1       6.230 -11.388   0.032  1.00  0.00     0.091 A 
+HETATM    5  C   LIG     1       6.164  -9.987   0.126  1.00  0.00     0.049 A 
+HETATM    6  C   LIG     1       4.888  -9.384   0.164  1.00  0.00     0.021 A 
+HETATM    7  O   LIG     1       7.441 -12.064  -0.008  1.00  0.00    -0.321 OA
+HETATM    8  C   LIG     1       8.601 -11.310   0.003  1.00  0.00     0.159 A 
+HETATM    9  C   LIG     1       8.649  -9.963   0.072  1.00  0.00     0.048 A 
+HETATM   10  C   LIG     1       7.391  -9.170   0.196  1.00  0.00     0.197 A 
+HETATM   11  O   LIG     1       7.365  -7.967   0.358  1.00  0.00    -0.286 OA
+ENDROOT
+BRANCH   9  12
+HETATM   12  C   LIG     1       9.937  -9.254   0.031  1.00  0.00    -0.020 A 
+HETATM   13  C   LIG     1      10.930  -9.643  -0.882  1.00  0.00     0.015 A 
+HETATM   14  C   LIG     1      12.165  -8.991  -0.914  1.00  0.00     0.037 A 
+HETATM   15  C   LIG     1      12.381  -7.934  -0.020  1.00  0.00     0.065 A 
+HETATM   16  C   LIG     1      11.399  -7.510   0.892  1.00  0.00     0.037 A 
+HETATM   17  C   LIG     1      10.178  -8.172   0.905  1.00  0.00     0.015 A 
+BRANCH  15  18
+HETATM   18  O   LIG     1      13.564  -7.236   0.028  1.00  0.00    -0.361 OA
+HETATM   19  H   LIG     1      14.215  -7.559  -0.641  1.00  0.00     0.217 HD
+ENDBRANCH  15  18
+ENDBRANCH   9  12
+BRANCH   2  20
+HETATM   20  O   LIG     1       2.770 -12.378  -0.042  1.00  0.00    -0.361 OA
+HETATM   21  H   LIG     1       1.913 -11.877  -0.011  1.00  0.00     0.217 HD
+ENDBRANCH   2  20
+TORSDOF 3

@@ -1,0 +1,369 @@
+MODEL 1
+REMARK VINA RESULT:      -0.0      0.000      0.000
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -52.163   6.004 124.051  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -51.210   5.134 124.773  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -50.982   5.599 126.223  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -49.975   5.311 126.850  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -52.071   6.033 123.031  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -51.986   6.331 126.839  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -53.252   6.737 126.191  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -53.112   6.816 124.658  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -53.835   7.514 123.966  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -51.835   6.676 127.798  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -49.852   5.102 124.042  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -49.499   3.719 123.574  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -48.839   2.830 124.436  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -48.515   1.543 123.998  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -48.837   1.139 122.698  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -49.494   2.026 121.838  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -49.828   3.310 122.273  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -53.733   8.094 126.731  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -52.580   9.053 127.097  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -52.764   9.574 128.527  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -52.492  10.229 126.116  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -0.0     11.941     12.940
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -60.933  14.092 124.056  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -61.583  12.774 123.896  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -61.625  11.982 125.217  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -61.723  10.765 125.244  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -60.506  14.494 123.216  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -61.594  12.694 126.405  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -61.483  14.166 126.504  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -60.811  14.776 125.258  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -60.232  15.849 125.282  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -61.589  12.177 127.297  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -60.843  11.934 122.836  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -61.720  11.612 121.660  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -61.731  12.452 120.537  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -62.546  12.147 119.443  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -63.361  11.011 119.467  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -63.350  10.172 120.587  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -62.532  10.467 121.680  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -60.697  14.573 127.762  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -59.588  13.569 128.144  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -59.723  13.173 129.619  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -58.190  14.145 127.880  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -0.0      6.654      8.621
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -50.317  11.163 124.294  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -50.294  12.238 123.279  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -49.349  13.389 123.671  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -49.477  14.518 123.226  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -51.167  10.591 124.333  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -48.296  13.104 124.526  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -48.031  11.779 125.127  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -49.310  10.925 125.220  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -49.443  10.024 126.031  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -47.674  13.870 124.824  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -51.711  12.808 123.067  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -52.193  12.609 121.658  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -51.877  13.548 120.665  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -52.324  13.357 119.355  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -53.095  12.237 119.030  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -53.411  11.300 120.020  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -52.960  11.481 121.330  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -47.409  11.925 126.525  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -47.911  13.167 127.293  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -46.720  13.990 127.798  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -48.816  12.776 128.469  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -0.0     22.092     24.804
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -63.494  19.562 111.416  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -63.317  21.030 111.436  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -64.204  21.738 110.395  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -63.937  22.844 109.955  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -62.703  19.003 111.750  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -65.367  21.101 109.989  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -65.803  19.766 110.452  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -64.615  18.906 110.925  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -64.647  17.686 110.934  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -65.954  21.547 109.270  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -61.844  21.397 111.166  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -61.221  22.117 112.328  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -61.329  23.512 112.433  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -60.751  24.178 113.518  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -60.056  23.460 114.495  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -59.947  22.069 114.391  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -60.530  21.396 113.313  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -66.564  19.022 109.342  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -66.041  19.336 107.923  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -67.201  19.773 107.020  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -65.321  18.129 107.307  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -0.0      4.097      6.346
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -49.143   6.693 127.576  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -50.130   7.785 127.435  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -50.693   8.240 128.795  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -51.772   8.801 128.899  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -49.029   6.075 126.768  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -49.914   8.037 129.924  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -48.591   7.377 129.928  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -48.424   6.419 128.732  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -47.651   5.475 128.747  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -50.291   8.307 130.844  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -51.301   7.339 126.537  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -51.403   8.171 125.291  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -52.145   9.362 125.297  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -52.234  10.136 124.136  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -51.594   9.723 122.964  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -50.854   8.536 122.957  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -50.754   7.762 124.115  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -48.369   6.603 131.238  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -49.666   6.009 131.828  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -49.809   6.416 133.300  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -49.695   4.480 131.700  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -0.0     13.615     16.035
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -50.872  17.541 114.337  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -50.920  16.942 115.688  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -51.115  15.415 115.642  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -51.584  14.789 116.578  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -51.148  18.524 114.264  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -50.695  14.739 114.507  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -50.106  15.381 113.312  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -50.545  16.852 113.176  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -50.560  17.439 112.107  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -50.847  13.721 114.448  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -52.066  17.564 116.511  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -51.559  18.283 117.729  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -51.342  17.580 118.923  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -50.866  18.251 120.053  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -50.614  19.626 120.001  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -50.831  20.327 118.811  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -51.298  19.661 117.676  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -50.486  14.614 112.034  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -51.884  13.960 112.103  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -51.790  12.479 111.719  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -52.888  14.678 111.191  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:       0.0     10.006     12.228
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -57.262  13.521 127.206  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -57.579  13.223 128.619  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -58.757  12.241 128.757  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -59.439  12.179 129.769  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -56.806  14.419 127.020  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -59.011  11.375 127.705  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -58.256  11.348 126.434  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -57.594  12.707 126.131  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -57.306  13.061 124.999  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -59.815  10.735 127.770  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -57.921  14.521 129.378  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -56.954  14.792 130.495  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -57.171  14.238 131.766  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -56.267  14.489 132.801  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -55.149  15.300 132.579  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -54.932  15.852 131.313  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -55.828  15.598 130.271  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -59.169  10.950 125.262  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -60.625  11.437 125.426  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -61.595  10.266 125.231  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -60.957  12.566 124.441  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:       0.0     12.848     14.167
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -65.964   6.493 123.716  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -64.950   6.437 124.791  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -64.137   7.741 124.892  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -63.023   7.778 125.391  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -66.251   5.595 123.314  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -64.723   8.912 124.436  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -66.064   8.999 123.819  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -66.491   7.661 123.183  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -67.306   7.594 122.278  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -64.179   9.787 124.468  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -63.979   5.263 124.554  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -64.032   4.256 125.668  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -64.880   3.143 125.572  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -64.924   2.206 126.608  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -64.132   2.378 127.747  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -63.287   3.489 127.844  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -63.232   4.424 126.808  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -66.107  10.109 122.755  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -64.787  10.254 121.966  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -64.293  11.704 122.031  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -64.954   9.820 120.504  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:       0.0     21.161     23.566
+REMARK  4 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+REMARK    4  A    between atoms: CB_16  and  CG_18 
+ROOT
+ATOM      1  N   PHE A   1     -66.200  12.571 108.453  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -65.309  13.749 108.525  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -64.022  13.458 109.319  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -63.367  14.343 109.847  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -67.198  12.762 108.321  1.00  0.00     0.163 HD
+ATOM      6  N   LEU A   2     -63.582  12.145 109.388  1.00  0.00    -0.346 N 
+ATOM      7  CA  LEU A   2     -64.281  10.989 108.787  1.00  0.00     0.177 C 
+ATOM      8  C   LEU A   2     -65.789  11.255 108.615  1.00  0.00     0.241 C 
+ATOM      9  O   LEU A   2     -66.614  10.358 108.561  1.00  0.00    -0.271 OA
+ATOM     10  H   LEU A   2     -62.740  11.930 109.942  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -66.040  14.938 109.182  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -66.158  16.110 108.250  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -67.310  16.274 107.465  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -67.418  17.368 106.602  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -66.377  18.297 106.510  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -65.228  18.134 107.291  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -65.118  17.047 108.162  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  LEU A   2     -64.078   9.724 109.637  1.00  0.00     0.038 C 
+BRANCH  18  19
+ATOM     19  CG  LEU A   2     -63.965  10.012 111.150  1.00  0.00    -0.020 C 
+ATOM     20  CD1 LEU A   2     -62.706   9.347 111.719  1.00  0.00     0.009 C 
+ATOM     21  CD2 LEU A   2     -65.206   9.528 111.911  1.00  0.00     0.009 C 
+ENDBRANCH  18  19
+ENDBRANCH   7  18
+TORSDOF 4
+ENDMDL

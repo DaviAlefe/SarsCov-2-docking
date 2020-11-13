@@ -1,0 +1,342 @@
+MODEL 1
+REMARK VINA RESULT:       0.0      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1      -0.575 -18.113  85.142  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1      -0.461 -16.770  85.751  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1       0.686 -16.749  86.786  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1       0.626 -16.111  87.824  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1      -1.513 -18.432  84.889  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2       1.864 -17.400  86.405  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2       1.897 -18.397  85.297  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2       0.512 -18.953  84.935  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2       2.903 -17.723  87.430  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2       3.284 -19.193  87.191  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2       2.860 -19.519  85.748  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2       0.343 -20.057  84.444  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1      -1.780 -16.373  86.442  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1      -2.251 -15.013  86.016  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1      -2.225 -13.938  86.924  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1      -2.661 -12.674  86.543  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1      -3.127 -12.497  85.229  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1      -3.160 -13.547  84.300  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1      -2.715 -14.806  84.708  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1      -3.543 -11.223  84.923  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1      -3.604 -11.074  83.948  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:       0.0      5.563      9.316
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1       1.400  -9.047  89.394  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1       1.283 -10.425  88.869  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1      -0.186 -10.732  88.498  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1      -0.693 -11.827  88.666  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1       2.098  -8.884  90.123  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2      -0.872  -9.712  87.830  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2      -0.401  -8.298  87.842  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2       0.597  -7.996  88.969  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2      -2.362  -9.766  87.716  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2      -2.863  -8.370  88.120  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2      -1.666  -7.417  87.952  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2       0.735  -6.888  89.460  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1       1.771 -11.448  89.913  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1       2.766 -12.411  89.334  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1       2.420 -13.762  89.149  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1       3.334 -14.665  88.617  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1       4.611 -14.193  88.267  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1       4.983 -12.852  88.435  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1       4.046 -11.966  88.970  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1       5.462 -15.140  87.749  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1       6.384 -15.040  88.090  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:       0.0      5.534      6.272
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1       1.571 -18.197  79.331  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1       0.996 -17.276  80.334  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1       2.107 -16.396  80.951  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1       2.110 -16.064  82.124  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1       1.140 -19.119  79.243  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2       3.049 -15.884  80.052  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2       3.245 -16.462  78.692  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2       2.670 -17.878  78.543  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2       4.329 -15.305  80.563  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2       5.442 -15.931  79.708  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2       4.765 -16.433  78.420  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2       3.106 -18.694  77.747  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1       0.288 -18.064  81.453  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1      -1.104 -17.562  81.701  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1      -1.411 -16.885  82.897  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1      -2.698 -16.418  83.139  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1      -3.683 -16.637  82.161  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1      -3.407 -17.303  80.959  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1      -2.106 -17.761  80.739  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1      -4.931 -16.150  82.470  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1      -5.467 -15.959  81.662  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:       0.0      4.921      6.468
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1      -1.286 -18.865  81.286  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1      -2.071 -17.615  81.393  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1      -2.771 -17.308  80.050  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1      -2.913 -16.175  79.625  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1      -0.417 -18.917  81.822  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2      -3.359 -18.401  79.405  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2      -2.993 -19.808  79.733  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2      -1.656 -19.933  80.479  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2      -3.770 -18.289  77.971  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2      -3.219 -19.546  77.279  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2      -2.970 -20.578  78.393  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2      -0.951 -20.927  80.423  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1      -1.161 -16.433  81.777  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1      -1.703 -15.662  82.945  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1      -2.199 -14.358  82.764  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1      -2.702 -13.632  83.839  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1      -2.701 -14.235  85.109  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1      -2.219 -15.533  85.320  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1      -1.721 -16.241  84.223  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1      -3.210 -13.459  86.124  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1      -4.009 -12.951  85.840  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:       0.0      8.893     12.819
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1       8.195 -23.523  88.501  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1       8.663 -22.783  87.309  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1       7.776 -21.541  87.069  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1       7.479 -21.148  85.953  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1       8.291 -24.540  88.486  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2       7.436 -20.804  88.208  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2       7.540 -21.373  89.582  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2       7.615 -22.907  89.603  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2       6.335 -19.794  88.143  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2       5.446 -20.067  89.367  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2       6.314 -20.853  90.365  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2       7.233 -23.581  90.545  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1       8.628 -23.685  86.061  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1       9.930 -23.666  85.315  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1      10.014 -23.053  84.051  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1      11.214 -23.030  83.349  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1      12.341 -23.634  83.934  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1      12.290 -24.247  85.193  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1      11.073 -24.255  85.878  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1      13.491 -23.576  83.183  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1      13.484 -22.819  82.548  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:       0.0     11.193     12.221
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1       6.213 -24.387  90.180  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1       6.234 -24.709  88.736  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1       5.368 -25.957  88.455  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1       5.668 -26.793  87.619  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1       7.065 -23.992  90.582  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2       4.140 -26.011  89.123  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2       3.853 -25.179  90.325  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2       5.117 -24.625  91.000  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2       3.380 -27.298  89.184  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2       2.969 -27.471  90.655  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2       3.039 -26.071  91.290  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2       5.175 -24.353  92.187  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1       7.675 -24.968  88.258  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1       8.016 -24.166  87.037  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1       8.198 -24.806  85.797  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1       8.516 -24.074  84.658  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1       8.651 -22.680  84.777  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1       8.470 -22.014  85.996  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1       8.150 -22.772  87.124  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1       8.968 -22.022  83.612  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1       8.842 -22.593  82.815  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:       0.0      6.239      9.271
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1      -2.117 -13.565  81.547  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1      -2.757 -13.189  80.268  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1      -3.653 -11.945  80.464  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1      -4.713 -11.797  79.880  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1      -1.962 -14.561  81.716  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2      -3.116 -10.925  81.256  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2      -1.977 -11.160  82.189  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2      -1.756 -12.643  82.521  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2      -4.003  -9.840  81.778  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2      -3.669  -9.709  83.272  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2      -2.274 -10.331  83.459  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2      -1.250 -13.025  83.563  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1      -3.608 -14.352  79.723  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1      -3.288 -14.660  78.290  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1      -4.225 -14.379  77.278  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1      -3.941 -14.662  75.947  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1      -2.696 -15.235  75.637  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1      -1.740 -15.522  76.621  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1      -2.050 -15.226  77.951  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1      -2.485 -15.490  74.303  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1      -3.331 -15.614  73.808  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:       0.0      9.495     11.362
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1       4.234 -22.075  78.675  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1       4.828 -20.754  78.376  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1       4.574 -20.376  76.899  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1       5.392 -19.775  76.223  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1       4.724 -22.665  79.350  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2       3.291 -20.645  76.412  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2       2.368 -21.598  77.091  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2       3.080 -22.549  78.064  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2       3.034 -20.628  74.939  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2       2.253 -21.917  74.637  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2       1.637 -22.372  75.971  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2       2.655 -23.658  78.344  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1       6.344 -20.765  78.648  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1       6.770 -19.616  79.514  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1       7.548 -18.574  78.976  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1       7.950 -17.505  79.769  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1       7.561 -17.491  81.119  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1       6.782 -18.512  81.682  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1       6.389 -19.573  80.864  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1       7.996 -16.406  81.842  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1       7.967 -15.571  81.316  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:       0.0      7.049      9.303
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CZ_9  and  OH_12 
+ROOT
+ATOM      1  N   TYR A   1       7.215 -16.841  81.875  1.00  0.00    -0.346 N 
+ATOM      2  CA  TYR A   1       7.249 -16.007  83.096  1.00  0.00     0.181 C 
+ATOM      3  C   TYR A   1       5.964 -16.223  83.927  1.00  0.00     0.243 C 
+ATOM      4  O   TYR A   1       5.417 -15.323  84.540  1.00  0.00    -0.271 OA
+ATOM      5  H   TYR A   1       7.654 -16.458  81.035  1.00  0.00     0.163 HD
+ATOM      6  N   PRO A   2       5.531 -17.548  84.047  1.00  0.00    -0.337 N 
+ATOM      7  CA  PRO A   2       5.991 -18.621  83.121  1.00  0.00     0.179 C 
+ATOM      8  C   PRO A   2       6.595 -18.083  81.815  1.00  0.00     0.241 C 
+ATOM      9  CD  PRO A   2       4.149 -17.839  84.538  1.00  0.00     0.127 C 
+ATOM     10  CG  PRO A   2       3.564 -18.867  83.556  1.00  0.00     0.022 C 
+ATOM     11  CB  PRO A   2       4.765 -19.522  82.852  1.00  0.00     0.037 C 
+ATOM     12  O   PRO A   2       6.587 -18.710  80.768  1.00  0.00    -0.271 OA
+ENDROOT
+BRANCH   2  13
+ATOM     13  CB  TYR A   1       7.378 -14.516  82.732  1.00  0.00     0.073 C 
+BRANCH  13  14
+ATOM     14  CG  TYR A   1       8.492 -13.847  83.482  1.00  0.00    -0.056 A 
+ATOM     15  CD1 TYR A   1       8.205 -12.895  84.478  1.00  0.00     0.010 A 
+ATOM     16  CE1 TYR A   1       9.229 -12.267  85.179  1.00  0.00     0.037 A 
+ATOM     17  CZ  TYR A   1      10.557 -12.608  84.868  1.00  0.00     0.065 A 
+ATOM     18  CE2 TYR A   1      10.874 -13.556  83.887  1.00  0.00     0.037 A 
+ATOM     19  CD2 TYR A   1       9.827 -14.174  83.198  1.00  0.00     0.010 A 
+BRANCH  17  20
+ATOM     20  OH  TYR A   1      11.515 -11.947  85.599  1.00  0.00    -0.361 OA
+ATOM     21  HH  TYR A   1      11.623 -12.327  86.504  1.00  0.00     0.217 HD
+ENDBRANCH  17  20
+ENDBRANCH  13  14
+ENDBRANCH   2  13
+TORSDOF 3
+ENDMDL

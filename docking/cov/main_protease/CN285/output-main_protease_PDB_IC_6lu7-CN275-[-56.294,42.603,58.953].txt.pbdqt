@@ -1,0 +1,333 @@
+MODEL 1
+REMARK VINA RESULT:      -1.0      0.000      0.000
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -42.495  31.844  53.711  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -42.493  30.395  53.412  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -42.444  29.571  54.717  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -41.893  28.488  54.809  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -41.952  32.447  53.088  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -43.103  30.109  55.815  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -43.811  31.409  55.783  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -43.042  32.390  54.874  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -42.933  33.586  55.066  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -43.075  29.611  56.708  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -41.294  30.015  52.531  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -41.616  29.541  51.141  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -41.341  28.197  50.829  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -41.628  27.694  49.559  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -42.194  28.525  48.584  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -42.476  29.857  48.892  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -42.189  30.366  50.164  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -43.998  31.981  57.222  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -45.213  31.333  57.888  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -42.745  31.748  58.073  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 2
+REMARK VINA RESULT:      -0.8      1.945      2.386
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -44.274  31.597  55.616  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -43.409  30.452  55.253  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -42.431  30.125  56.401  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -41.311  29.679  56.225  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -44.490  32.269  54.875  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -42.900  30.330  57.693  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -44.252  30.852  57.995  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -44.650  31.893  56.928  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -45.305  32.897  57.137  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -42.277  30.151  58.484  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -42.607  30.749  53.977  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -42.613  29.675  52.926  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -41.399  29.018  52.656  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -41.342  28.004  51.699  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -42.495  27.632  50.998  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -43.704  28.276  51.268  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -43.766  29.294  52.227  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -44.314  31.448  59.435  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -44.591  30.337  60.449  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -43.008  32.169  59.788  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 3
+REMARK VINA RESULT:      -0.5      3.420      4.884
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -42.282  33.948  53.115  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -42.881  32.710  52.568  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -44.374  32.927  52.242  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -45.216  32.051  52.326  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -41.605  33.839  53.874  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -44.733  34.194  51.797  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -43.770  35.308  51.650  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -42.718  35.230  52.775  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -42.212  36.187  53.331  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -45.716  34.391  51.594  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -42.747  31.546  53.562  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -42.285  30.236  52.989  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -41.752  30.243  51.687  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -41.295  29.060  51.105  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -41.364  27.854  51.812  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -41.886  27.843  53.107  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -42.346  29.028  53.696  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -44.504  36.685  51.640  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -44.884  37.064  50.207  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -45.755  36.648  52.523  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 4
+REMARK VINA RESULT:      -0.5      4.201      4.884
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -44.494  33.128  51.844  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -44.875  31.757  51.436  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -46.358  31.484  51.770  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -46.787  30.386  52.078  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -43.561  33.249  52.245  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -47.225  32.565  51.671  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -46.789  33.926  51.287  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -45.388  34.200  51.872  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -45.000  35.275  52.291  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -48.212  32.436  51.908  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -43.999  30.709  52.138  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -43.353  29.683  51.249  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -42.492  28.747  51.849  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -41.871  27.763  51.080  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -42.099  27.700  49.700  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -42.959  28.623  49.100  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -43.584  29.612  49.869  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -47.826  34.997  51.745  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -48.281  35.831  50.547  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -49.036  34.338  52.418  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 5
+REMARK VINA RESULT:      -0.5      4.023      5.554
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -43.516  33.043  59.049  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -43.719  31.778  58.308  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -44.947  31.019  58.856  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -45.036  29.805  58.872  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -42.550  33.313  59.249  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -46.003  31.798  59.314  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -45.983  33.278  59.313  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -44.556  33.773  59.627  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -44.285  34.764  60.279  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -46.827  31.338  59.710  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -42.482  30.874  58.411  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -42.054  30.191  57.142  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -42.043  28.784  57.129  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -41.666  28.092  55.978  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -41.294  28.793  54.824  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -41.310  30.189  54.831  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -41.687  30.888  55.984  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -47.028  33.853  60.318  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -48.377  34.038  59.621  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -47.187  32.933  61.534  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 6
+REMARK VINA RESULT:      -0.5      3.722      5.242
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -44.626  32.734  55.806  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -43.430  32.368  56.597  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -42.885  33.596  57.358  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -41.704  33.766  57.602  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -44.721  32.304  54.883  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -43.825  34.517  57.802  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -45.280  34.376  57.564  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -45.513  33.747  56.174  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -46.429  34.026  55.423  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -43.508  35.359  58.288  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -42.323  31.802  55.695  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -41.965  30.359  55.912  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -41.665  29.950  57.224  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -41.336  28.621  57.493  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -41.301  27.681  56.455  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -41.605  28.081  55.152  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -41.935  29.413  54.879  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -46.006  35.749  57.706  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -46.574  35.896  59.119  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -45.054  36.910  57.399  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 7
+REMARK VINA RESULT:      -0.4      3.663      6.820
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -44.979  31.624  50.489  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -43.580  31.434  50.936  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -42.611  31.520  49.737  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -41.571  30.891  49.667  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -45.692  31.046  50.940  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -42.960  32.399  48.719  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -44.197  33.213  48.735  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -45.336  32.403  49.387  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -46.505  32.442  49.052  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -42.361  32.469  47.893  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -43.403  30.076  51.631  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -42.805  30.111  53.009  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -43.302  31.066  53.914  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -42.797  31.141  55.212  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -41.787  30.264  55.625  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -41.294  29.309  54.733  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -41.799  29.231  53.430  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -44.574  33.687  47.298  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -43.824  34.977  46.959  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -44.254  32.605  46.260  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 8
+REMARK VINA RESULT:      -0.4      4.226      6.368
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -45.166  31.410  51.569  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -44.174  32.484  51.339  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -42.785  32.061  51.863  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -41.971  32.844  52.319  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -46.106  31.699  51.849  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -42.467  30.712  51.760  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -43.391  29.699  51.202  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -44.840  30.053  51.596  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -45.710  29.246  51.865  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -41.567  30.383  52.119  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -44.599  33.786  52.033  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -44.746  34.991  51.147  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -45.583  36.030  51.591  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -45.752  37.181  50.819  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -45.087  37.310  49.594  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -44.248  36.284  49.152  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -44.077  35.128  49.923  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -42.998  28.265  51.672  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -42.017  27.639  50.678  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -42.378  28.294  53.073  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL
+MODEL 9
+REMARK VINA RESULT:      -0.4      3.726      7.460
+REMARK  3 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CA_2  and  CB_4 
+REMARK    2  A    between atoms: CB_4  and  CG_5 
+REMARK    3  A    between atoms: CA_14  and  CB_16 
+ROOT
+ATOM      1  N   PHE A   1     -43.308  32.103  56.416  1.00  0.00    -0.346 N 
+ATOM      2  CA  PHE A   1     -44.618  31.831  57.049  1.00  0.00     0.180 C 
+ATOM      3  C   PHE A   1     -45.054  30.373  56.788  1.00  0.00     0.241 C 
+ATOM      4  O   PHE A   1     -46.217  30.030  56.672  1.00  0.00    -0.271 OA
+ATOM      5  H   PHE A   1     -43.183  33.023  55.985  1.00  0.00     0.163 HD
+ATOM      6  N   VAL A   2     -44.041  29.425  56.723  1.00  0.00    -0.346 N 
+ATOM      7  CA  VAL A   2     -42.605  29.756  56.871  1.00  0.00     0.180 C 
+ATOM      8  C   VAL A   2     -42.326  31.129  56.227  1.00  0.00     0.241 C 
+ATOM      9  O   VAL A   2     -41.308  31.431  55.632  1.00  0.00    -0.271 OA
+ATOM     10  H   VAL A   2     -44.281  28.450  56.526  1.00  0.00     0.163 HD
+ENDROOT
+BRANCH   2  11
+ATOM     11  CB  PHE A   1     -45.697  32.783  56.515  1.00  0.00     0.073 C 
+BRANCH  11  12
+ATOM     12  CG  PHE A   1     -46.504  33.518  57.550  1.00  0.00    -0.056 A 
+ATOM     13  CD1 PHE A   1     -46.232  33.247  58.903  1.00  0.00     0.007 A 
+ATOM     14  CE1 PHE A   1     -46.938  33.905  59.910  1.00  0.00     0.001 A 
+ATOM     15  CZ  PHE A   1     -47.926  34.841  59.582  1.00  0.00     0.000 A 
+ATOM     16  CE2 PHE A   1     -48.194  35.118  58.240  1.00  0.00     0.001 A 
+ATOM     17  CD2 PHE A   1     -47.488  34.460  57.226  1.00  0.00     0.007 A 
+ENDBRANCH  11  12
+ENDBRANCH   2  11
+BRANCH   7  18
+ATOM     18  CB  VAL A   2     -41.707  28.637  56.260  1.00  0.00     0.009 C 
+ATOM     19  CG1 VAL A   2     -41.308  27.635  57.345  1.00  0.00     0.012 C 
+ATOM     20  CG2 VAL A   2     -42.429  27.914  55.117  1.00  0.00     0.012 C 
+ENDBRANCH   7  18
+TORSDOF 3
+ENDMDL

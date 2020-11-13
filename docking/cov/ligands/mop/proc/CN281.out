@@ -1,0 +1,123 @@
+ *******************************************************************************
+ ** Site#: 35412        For non-commercial use only    Version 20.225L 64BITS **
+ *******************************************************************************
+ ** Cite this program as: MOPAC2016, Version: 20.225L, James J. P. Stewart,   **
+ ** Stewart Computational Chemistry, web: HTTP://OpenMOPAC.net. Days left: 364**
+ *******************************************************************************
+ **                                                                           **
+ **                                MOPAC2016                                  **
+ **                                                                           **
+ *******************************************************************************
+
+                              PM6 CALCULATION RESULTS
+
+ *******************************************************************************
+ *  CALCULATION DONE:                                Fri Aug 14 20:41:43 2020  *
+ *  PM6        - The PM6 Hamiltonian to be used
+ *  SINGLET    - SPIN STATE DEFINED AS A SINGLET
+ *  OPT        - OPTIMIZE COORDINATES OF ALL ATOMS
+ *
+ *
+ *
+ *                 CHARGE ON SYSTEM = 0
+ *
+ *
+ *
+ *  PRECISE    - CRITERIA TO BE INCREASED BY 100 TIMES
+ *  T=         - A TIME OF 172800.0 SECONDS REQUESTED
+ *  DUMP=N     - RESTART FILE WRITTEN EVERY 7200.0 SECONDS REQUESTED
+ *  AUX        - OUTPUT AUXILIARY INFORMATION
+ *  PRTXYZ     - PRINT CARTESIAN COORDINATES
+ *  LARGE      - EXPANDED OUTPUT TO BE PRINTED
+ *******************************************************************************
+ AUX LARGE CHARGE=0 SINGLET  PM6  OPT PRECISE PRTXYZ
+ CN281.pdb
+ 25
+   ATOM   CHEMICAL          X               Y               Z
+  NUMBER   SYMBOL      (ANGSTROMS)     (ANGSTROMS)     (ANGSTROMS)
+ 
+     1       C          5.01000000  *  -7.44700000  *  -0.00100000  *
+     2       C          5.03900000  *  -8.84600000  *  -0.00100000  *
+     3       C          6.25100000  *  -9.54000000  *  -0.00100000  *
+     4       C          7.42400000  *  -8.79800000  *  -0.00100000  *
+     5       C          7.38100000  *  -7.42200000  *   0.00000000  *
+     6       C          6.19500000  *  -6.71100000  *   0.00000000  *
+     7       N          8.69200000  *  -9.22400000  *  -0.00100000  *
+     8       C          9.46600000  *  -8.13400000  *   0.00000000  *
+     9       C          8.69000000  *  -7.00000000  *   0.00000000  *
+    10       C         10.85000000  *  -8.02200000  *   0.00000000  *
+    11       N         11.38000000  *  -6.79800000  *   0.00100000  *
+    12       C         10.64200000  *  -5.68100000  *   0.00100000  *
+    13       C          9.25000000  *  -5.73700000  *   0.00100000  *
+    14       C         11.72700000  *  -9.19700000  *   0.00000000  *
+    15       C         13.21200000  *  -9.01800000  *   0.00000000  *
+    16       O         11.24500000  * -10.33100000  *   0.00000000  *
+    17       H          4.07700000  *  -6.94200000  *  -0.00100000  *
+    18       H          4.12500000  *  -9.38900000  *  -0.00100000  *
+    19       H          6.26900000  * -10.60400000  *  -0.00100000  *
+    20       H          6.18900000  *  -5.65100000  *   0.00000000  *
+    21       H         11.12600000  *  -4.74600000  *   0.00100000  *
+    22       H          8.65100000  *  -4.85500000  *   0.00100000  *
+    23       H         13.72500000  *  -9.99100000  *   0.00100000  *
+    24       H         13.49400000  *  -8.42200000  *   0.88000000  *
+    25       H         13.49500000  *  -8.42300000  *  -0.88000000  *
+ 
+
+
+          CARTESIAN COORDINATES 
+
+    NO.       ATOM           X           Y           Z
+
+     1         C          5.0100     -7.4470     -0.0010
+     2         C          5.0390     -8.8460     -0.0010
+     3         C          6.2510     -9.5400     -0.0010
+     4         C          7.4240     -8.7980     -0.0010
+     5         C          7.3810     -7.4220      0.0000
+     6         C          6.1950     -6.7110      0.0000
+     7         N          8.6920     -9.2240     -0.0010
+     8         C          9.4660     -8.1340      0.0000
+     9         C          8.6900     -7.0000      0.0000
+    10         C         10.8500     -8.0220      0.0000
+    11         N         11.3800     -6.7980      0.0010
+    12         C         10.6420     -5.6810      0.0010
+    13         C          9.2500     -5.7370      0.0010
+    14         C         11.7270     -9.1970      0.0000
+    15         C         13.2120     -9.0180      0.0000
+    16         O         11.2450    -10.3310      0.0000
+    17         H          4.0770     -6.9420     -0.0010
+    18         H          4.1250     -9.3890     -0.0010
+    19         H          6.2690    -10.6040     -0.0010
+    20         H          6.1890     -5.6510      0.0000
+    21         H         11.1260     -4.7460      0.0010
+    22         H          8.6510     -4.8550      0.0010
+    23         H         13.7250     -9.9910      0.0010
+    24         H         13.4940     -8.4220      0.8800
+    25         H         13.4950     -8.4230     -0.8800
+
+ General Reference for PM6:
+ "Optimization of Parameters for Semiempirical Methods V: Modification of NDDO Approximations
+ and Application to 70 Elements", J. J. P. Stewart, J. Mol. Mod., 13, 1173-1213 (2007)
+ URL: https://link.springer.com/article/10.1007/s00894-007-0233-4
+
+           Empirical Formula: C13 H9 N2 O  =    25 atoms
+
+
+
+      MOLECULAR POINT GROUP   :   Cs  
+
+          SINGLET SPECIFIED WITH ODD NUMBER OF ELECTRONS, CORRECT FAULT
+
+ ******************************************************************************
+ *                                                                            *
+ *     Error and normal termination messages reported in this calculation     *
+ *                                                                            *
+ * SINGLET SPECIFIED WITH ODD NUMBER OF ELECTRONS, CORRECT FAULT              *
+ * JOB ENDED NORMALLY                                                         *
+ *                                                                            *
+ ******************************************************************************
+
+
+
+ TOTAL JOB TIME:             0.02 SECONDS
+
+ == MOPAC DONE ==
